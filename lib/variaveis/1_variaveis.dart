@@ -1,5 +1,9 @@
 void main() {
+
+  //SNAKE CASE - Arquivos | CAMEL CASE - variáveis
+
   //variáveis de escopo local não precisam ser inicializadas na hora da criação
+  //sem inicialização é nulo por padrão
   String nome;
   nome = 'Carlos';
   var sobrenome = 'Erig';
@@ -13,12 +17,6 @@ void main() {
   
   int n1;
   n1 = 10;
-
-  var n2 = 20;
-
-  var resultado = n1 + n2;
-
-  print('O número é $resultado');
 
   double n3 = 1.123;
   double n4 = 2;
