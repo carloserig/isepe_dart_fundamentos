@@ -13,13 +13,13 @@ void main() {
   print('O nome completo é $nome $sobrenome');
 
   //int
-  int numero = 10;
+  var numero = 10;
   
-  int n1;
+  var n1;
   n1 = 10;
 
-  double n3 = 1.123;
-  double n4 = 2;
+  var n3 = 1.123;
+  var n4 = 2;
 
   print('A soma dos números double é ${n3 + n4}');
 

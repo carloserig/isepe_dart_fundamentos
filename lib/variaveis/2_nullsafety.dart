@@ -16,10 +16,4 @@ void main() {
 
   print(nomeSuperior!.length);
   
-  //var media = 8.0;
-
-  // Exercício
-  // receber nome do aluno
-  // receber 4 numeros double e fazer a média 
-  //print('A média do aluno $nome é $media');
 }
