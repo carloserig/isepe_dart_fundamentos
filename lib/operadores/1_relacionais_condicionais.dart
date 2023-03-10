@@ -1,5 +1,5 @@
 void main() {
-  final idade = 19;
+  final idade = 16;
   if (idade < 17) {
     print('Menor de idade: Não pode tirar carteira de motorista');
   } else if (idade == 18) {

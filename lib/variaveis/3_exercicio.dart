@@ -6,4 +6,5 @@ void main() {
 
   var media = (n1+n2+n3+n4) / 4;
   print('A média final é $media');
+  
 }
