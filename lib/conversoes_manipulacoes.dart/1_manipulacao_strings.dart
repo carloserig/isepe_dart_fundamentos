@@ -4,8 +4,10 @@ void main() {
   var substring = nome.substring(7);
   var substring2 = nome.substring(0,7);
   var substring3 = nome.toUpperCase();
-  
+  var substring4 = nome.lastIndexOf((''));
+  print(substring4);
   var paciente = 'Carlos Erig|40|Programador|PR';
+
   //var nomeCliente = paciente.substring(0,11);
   //var idadeCliente = paciente.substring(12,14);
   //print('Nome $nomeCliente, idade $idadeCliente');
